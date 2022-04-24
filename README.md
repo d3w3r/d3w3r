@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @d3w3r
-- 👀 I’m interested in work on the computer science field.
+- 👀 I’m want to become a computer scientist.
 - 🌱 I’m currently learning many things about CS on my university UFPS.
-- 💞️ I’m looking to collaborate on little projects of Javascript.
+- 👨‍💻 I'm currently working at Avanzo as a software developer.
+- 💞️ I’m looking to contribute at easy free software projects.
 - 📫 How to reach me is by email.
 
 <!---
