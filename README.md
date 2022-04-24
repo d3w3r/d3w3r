@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d3w3r
-- 👀 I’m want to become a computer scientist.
+- 👀 I’m want to become a computer scientist and software engineer.
 - 🌱 I’m currently learning many things about CS on my university UFPS.
 - 👨‍💻 I'm currently working at Avanzo as a software developer.
 - 💞️ I’m looking to contribute at easy free software projects.
